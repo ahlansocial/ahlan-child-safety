@@ -1,0 +1,156 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="description" content="Ahlan Social Child Safety Standards concerning child sexual abuse and exploitation prevention, reporting, and enforcement.">
+  <title>Child Safety Standards | Ahlan Social</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f5f7fa;
+      color: #202938;
+      line-height: 1.75;
+    }
+    header {
+      background: #173b32;
+      color: white;
+      padding: 42px 20px;
+      text-align: center;
+    }
+    header h1 { margin: 0 0 8px; font-size: 30px; }
+    header p { margin: 0; color: #e0eee8; }
+    main {
+      max-width: 850px;
+      margin: 30px auto;
+      padding: 32px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 3px 16px rgba(0,0,0,.06);
+    }
+    h2 { color: #173b32; margin-top: 30px; }
+    a { color: #176b54; overflow-wrap: anywhere; }
+    .updated { color: #596579; font-size: 14px; }
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: #596579;
+      font-size: 14px;
+    }
+    @media (max-width: 600px) {
+      main { margin: 14px; padding: 22px; }
+      header h1 { font-size: 25px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ahlan Social</h1>
+    <p>Child Safety Standards</p>
+  </header>
+
+  <main>
+    <p class="updated">Last updated: October 13, 2026</p>
+
+    <h2>1. Our Commitment</h2>
+    <p>
+      Ahlan Social is committed to protecting children from child sexual
+      abuse and exploitation (CSAE). We prohibit the use of our platform
+      to abuse, exploit, groom, or sexually target children.
+      These standards apply to user accounts, posts, images, stories,
+      direct messages, and other content and interactions on the platform.
+    </p>
+
+    <h2>2. Prohibited Content and Conduct</h2>
+    <p>Ahlan Social prohibits child sexual abuse and exploitation, including:</p>
+    <ul>
+      <li>Creating, uploading, requesting, sharing, or distributing child
+      sexual abuse material (CSAM).</li>
+      <li>Grooming or attempting to manipulate a child for sexual purposes.</li>
+      <li>Sexual solicitation, exploitation, or trafficking involving minors.</li>
+      <li>Sexual extortion, threats, or blackmail involving minors.</li>
+      <li>Other conduct that sexually exploits children or facilitates child abuse.</li>
+    </ul>
+
+    <h2>3. Reporting Within the App</h2>
+    <p>
+      Ahlan Social provides an in-app reporting feature that allows users
+      to report accounts and posts directly from the application.
+      Users do not need to leave the app to submit a report.
+    </p>
+    <p>
+      The reporting menu includes the category
+      <strong>"Nudity or sexual activity."</strong> This category can be
+      used to report relevant sexual content or conduct, including suspected
+      child sexual exploitation, inappropriate sexual interactions involving
+      minors, and other related child-safety concerns.
+    </p>
+    <p>
+      Reports submitted through this feature appear in the Ahlan Social
+      administration panel for review. The developer has tested this
+      reporting workflow.
+    </p>
+    <p>
+      Reports are reviewed so that appropriate action can be taken based
+      on the reported content, the available information, the severity
+      of the concern, and applicable legal requirements.
+    </p>
+
+    <h2>4. Review and Enforcement</h2>
+    <p>
+      When Ahlan Social identifies content or conduct that violates these
+      standards, appropriate action may include:
+    </p>
+    <ul>
+      <li>Reviewing reported accounts and content.</li>
+      <li>Removing content that violates these standards, including confirmed CSAM.</li>
+      <li>Restricting, suspending, or terminating accounts involved in violations.</li>
+      <li>Handling relevant information in accordance with applicable law.</li>
+      <li>Reporting cases to the appropriate authorities when required by law.</li>
+    </ul>
+    <p>
+      Ahlan Social does not permit the use of its platform to distribute
+      or facilitate child sexual abuse material.
+    </p>
+
+    <h2>5. Compliance With Child Safety Laws</h2>
+    <p>
+      Ahlan Social is committed to complying with applicable child-safety
+      laws and regulations, including legal requirements concerning the
+      handling and reporting of child sexual abuse material. Reports and
+      suspected violations will be handled in accordance with applicable
+      legal obligations.
+    </p>
+
+    <h2>6. Child Safety Contact</h2>
+    <p>
+      For questions about these standards, child-safety concerns, or
+      Ahlan Social's child-safety practices, contact:
+    </p>
+    <p>
+      <strong>Email:</strong>
+      <a href="mailto:ahlan.social@inbox.eu">raadbinlaswad@gmail.com</a>
+    </p>
+    <p>
+      This contact address is provided for child-safety matters and
+      communications concerning compliance with applicable requirements.
+    </p>
+
+    <h2>7. Updates to These Standards</h2>
+    <p>
+      Ahlan Social may update these standards when necessary to improve
+      child safety, clarify enforcement procedures, or address changes
+      in applicable law. The latest version will be published at this
+      same public URL.
+    </p>
+  </main>
+
+  <footer>
+    Ahlan Social — Child Safety Standards
+  </footer>
+</body>
+</html>
